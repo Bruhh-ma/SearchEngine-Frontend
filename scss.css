@@ -1,0 +1,23 @@
+input 
+     {
+         border-radius: 50px;
+         border-width: 0.85px;
+         outline-style: none;
+     }
+     
+         
+         
+      
+
+#beta {
+       width: 600px;
+       height: 40px; 
+       box-shadow: transparent;
+       }
+
+
+h1        {text-align: center;}
+q         {text-align: center;}
+div       {text-align: center;}
+.meta     { text-align: right;}
+body      {font-family: arial,sans-serif;}

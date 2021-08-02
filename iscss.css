@@ -1,0 +1,24 @@
+
+ input 
+      { width: 600px;
+         height: 35px;
+         border-radius: 25px;
+         border-width: 0.85px;
+         outline-style: none;
+       
+      }
+
+
+div {
+    text-align:center;
+    
+}
+img {
+    text-align: center;
+}
+.meta {text-align: right;
+    padding-right: 15px; 
+    color: lightblue;}
+    body {
+        font-family: arial,sans-serif;
+    }
